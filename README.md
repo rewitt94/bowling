@@ -15,7 +15,7 @@ Coordinating thirteen classes in a single page app is a personal first.
 
 ![Alt text](./images/domain-model.svg)
 
-#### Bowler:
+##### Bowler:
 
 - contains the event listeners to create a bowling ball.
 - connects the animation to the scorecard.
