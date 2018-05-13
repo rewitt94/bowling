@@ -1,0 +1,12 @@
+{
+  "name": "bowling",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "parcel-bundler": "*"
+  },
+  "scripts": {
+    "dev": "parcel ./view/index.html",
+    "build": "parcel build ./script/script.js"
+  }
+}
