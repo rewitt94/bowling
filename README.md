@@ -11,7 +11,7 @@ This project was a play with HTML canvas.
 I'm proud of the encapsulation that I achieved here.
 Coordinating thirteen classes in a single page app is a personal first.
 
-### The Domain Model
+### The Domain Model
 
 ![Alt text](./images/domain-model.svg)
 
@@ -35,11 +35,11 @@ Coordinating thirteen classes in a single page app is a personal first.
 
 - specifically draws animatable objects.
 
-#### Bowling Ball:
+#### Bowling Ball:
 
 - A circle that moves on a trajectory between two points.
 
-#### Explosion:
+#### Explosion:
 
 - A collection of particles.
 
@@ -52,7 +52,7 @@ Coordinating thirteen classes in a single page app is a personal first.
 - An array of point locations.
 - Has a ricochet effect.
 
-#### Alley:
+#### Alley:
 
 - The dimensions of the bowling alley.
 
@@ -60,12 +60,12 @@ Coordinating thirteen classes in a single page app is a personal first.
 
 - An x(y) line that defines the edge of the Alley.
 
-#### Scorecard:
+#### Scorecard:
 
 - Receives scores for the bowler.
 - Contains a collection of score frames.
 
-#### Printer:
+#### Printer:
 
 - Totals frames.
 - Outputs frames into HTML.
