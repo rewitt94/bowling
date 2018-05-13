@@ -35,37 +35,37 @@ Coordinating thirteen classes in a single page app is a personal first.
 
 - specifically draws animatable objects.
 
-#### Bowling Ball:
+##### Bowling Ball:
 
 - A circle that moves on a trajectory between two points.
 
-#### Explosion:
+##### Explosion:
 
 - A collection of particles.
 
-#### Particle:
+##### Particle:
 
 - A small circle that moves on a random trajectory.
 
-#### Pins:
+##### Pins:
 
 - An array of point locations.
 - Has a ricochet effect.
 
-#### Alley:
+##### Alley:
 
 - The dimensions of the bowling alley.
 
-#### Gutter:
+##### Gutter:
 
 - An x(y) line that defines the edge of the Alley.
 
-#### Scorecard:
+##### Scorecard:
 
 - Receives scores for the bowler.
 - Contains a collection of score frames.
 
-#### Printer:
+##### Printer:
 
 - Totals frames.
 - Outputs frames into HTML.
